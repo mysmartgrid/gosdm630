@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/codegangsta/cli"
-	"github.com/gonium/gosdm630"
+	"github.com/mysmartgrid/gosdm630"
 	"log"
 	"os"
 )
