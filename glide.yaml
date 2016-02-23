@@ -1,0 +1,7 @@
+package: github.com/mysmartgrid/gosdm630
+import:
+- package: github.com/codegangsta/cli
+- package: github.com/goburrow/modbus
+- package: github.com/gorilla/mux
+- package: github.com/olekukonko/tablewriter
+- package: github.com/zfjagann/golang-ring

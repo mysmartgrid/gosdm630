@@ -1,0 +1,20 @@
+hash: 432f9355c64173911dea11e188fe4a8af9f031f89bedb9d310d9a235f03d7b6b
+updated: 2016-02-23T17:11:44.532954751+01:00
+imports:
+- name: github.com/codegangsta/cli
+  version: 5db74198dee1cfe60cf06a611d03a420361baad6
+- name: github.com/goburrow/modbus
+  version: 2abd4f3eb317bb103b1943a9edc24fc39c69a9a0
+- name: github.com/goburrow/serial
+  version: 709ae907b909ef40d069bb36d5f46c83f3fac5bd
+- name: github.com/gorilla/context
+  version: 1c83b3eabd45b6d76072b66b746c20815fb2872d
+- name: github.com/gorilla/mux
+  version: 26a6070f849969ba72b72256e9f14cf519751690
+- name: github.com/mattn/go-runewidth
+  version: d037b52ae5c0338c2bb18da01fb7ddf0e8be9aa1
+- name: github.com/olekukonko/tablewriter
+  version: cca8bbc0798408af109aaaa239cbd2634846b340
+- name: github.com/zfjagann/golang-ring
+  version: 17637388c9f6665e2f475e4beec439e6fc19fee9
+devImports: []
